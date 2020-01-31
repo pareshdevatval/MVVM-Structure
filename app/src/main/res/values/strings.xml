@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">VSIApplication</string>
+
+    <!--Common Validation Messages-->
+    <string name="blank_data">Please enter data</string>
+
+    <string name="blank_username">Please enter username</string>
+    <string name="blank_email">Email must not be empty</string>
+    <string name="blank_confirm_email">Confirm email must not be empty</string>
+    <string name="blank_password">Password must not be empty</string>
+    <string name="blank_current_password">Current password must not be empty</string>
+    <string name="blank_confirm_password">Confirm password must not be empty</string>
+    <string name="blank_new_password">New Password must not be empty</string>
+
+    <string name="invalid">Invalid data</string>
+    <string name="invalid_email">Please enter a valid email address</string>
+    <string name="invalid_confirm_email">Email and confirm email does not match</string>
+    <string name="invalid_confirm_password">Password and confirm password does not match</string>
+    <string name="invalid_password">Please enter at least 6 characters password</string>
+    <string name="invalid_current_password">Invalid Current Password</string>
+    <string name="invalid_verification_code">Verification code must have at-least 6 digit</string>
+    <string name="invalid_new_password">New Password and confirm password does not match</string>
+    <string name="invalid_new_old_password">New Password and current password should not be same</string>
+
+    <!--messages-->
+    <string name="msg_all_field_required">All fields are required.</string>
+    <string name="msg_grant_permission">Please grant permission in the apps settings</string>
+
+    <!--titles-->
+    <string name="title_error">Error</string>
+    <string name="title_go_to_settings">Go to settings</string>
+
+    <!--buttons-->
+    <string name="btn_cancel">Cancel</string>
+
+</resources>
